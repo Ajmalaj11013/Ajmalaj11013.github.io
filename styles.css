@@ -1,7 +1,7 @@
 h1{
   color:white;
-  display:block;
-  margin:0 auto;
+  margin:auto;
+  width:90%;
 }
 body{
   background-color:hsla(223, 23%, 18%, 1);
