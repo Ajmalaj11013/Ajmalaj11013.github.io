@@ -1,7 +1,13 @@
+html,body{
+  margin: 0;
+  padding:0;
+}
 h1{
   color:white;
   margin:auto;
-  width:90%;
+  width:100%;
+  background-color:rgb(2, 7, 2);
+  text-align:center;
 }
 body{
   background-color:hsla(274, 30%, 38%, 1);
